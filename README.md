@@ -1,4 +1,4 @@
-#esp32
+==esp32==
 
 Respositorio con el firmware básico para proyectos con la placa esp32.
 
